@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = C:/Users/Teekay/curseforge/minecraft/Instances/TLMMP2/saves/New World
+  is_server = true
+  world = 34.118.10.176:25565
 }
 
