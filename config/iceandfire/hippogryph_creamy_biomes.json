@@ -1,17 +1,16 @@
 {
-  "biomes": [
+  "biomes":
+    [
     [
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:savanna_plateau"
-      }
-    ],
-    [
+        "value": "the_outskirts:the_dark_forest"
+      },
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "terralith:fractured_savanna"
+        "value": "the_outskirts:the_outskirts"
       }
     ]
   ]

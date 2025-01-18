@@ -1,17 +1,16 @@
 {
-  "biomes": [
+  "biomes":
+    [
     [
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:badlands"
-      }
-    ],
-    [
+        "value": "the_outskirts:the_dark_forest"
+      },
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "terralith:painted_mountains"
+        "value": "the_outskirts:the_outskirts"
       }
     ]
   ]

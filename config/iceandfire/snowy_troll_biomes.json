@@ -1,15 +1,16 @@
 {
-  "biomes": [
+  "biomes":
+    [
     [
       {
-        "type": "BIOME_TAG",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:is_overworld"
+        "value": "the_outskirts:the_dark_forest"
       },
       {
-        "type": "BIOME_TAG",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "forge:is_snowy"
+        "value": "the_outskirts:the_outskirts"
       }
     ]
   ]

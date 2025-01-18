@@ -1,31 +1,16 @@
 {
-  "biomes": [
+  "biomes":
     [
-      {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "forge:is_cold/overworld"
-      }
-    ],
     [
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "byg:shattered_glacier"
-      }
-    ],
-    [
+        "value": "the_outskirts:the_dark_forest"
+      },
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "byg:frosted_taiga"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "byg:frosted_coniferous_forest"
+        "value": "the_outskirts:the_outskirts"
       }
     ]
   ]

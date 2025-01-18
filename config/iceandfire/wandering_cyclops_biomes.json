@@ -1,36 +1,16 @@
 {
-  "biomes": [
+  "biomes":
+    [
     [
       {
-        "type": "BIOME_TAG",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:is_overworld"
+        "value": "the_outskirts:the_dark_forest"
       },
       {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "forge:is_plains"
-      }
-    ],
-    [
-      {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "terralith:steppe"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "byg:firecracker_shrubland"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "byg:autumnal_valley"
+        "value": "the_outskirts:the_outskirts"
       }
     ]
   ]

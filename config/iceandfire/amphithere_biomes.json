@@ -1,43 +1,16 @@
 {
-  "biomes": [
+  "biomes":
+    [
     [
       {
-        "type": "BIOME_TAG",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:is_overworld"
+        "value": "the_outskirts:the_dark_forest"
       },
       {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "minecraft:is_jungle"
-      }
-    ],
-    [
-      {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "byg:guiana_shield"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "byg:temperate_rainforest"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "byg:tropical_rainforest"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "byg:jacaranda_forest"
+        "value": "the_outskirts:the_outskirts"
       }
     ]
   ]

@@ -1,34 +1,16 @@
 {
-  "biomes": [
+  "biomes":
     [
-      {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "minecraft:is_overworld"
-      },
-      {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "forge:is_snowy"
-      },
-      {
-        "type": "BIOME_TAG",
-        "negate": true,
-        "value": "forge:is_wet/overworld"
-      }
-    ],
     [
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "terralith:wintry_forest"
-      }
-    ],
-    [
+        "value": "the_outskirts:the_dark_forest"
+      },
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "terralith:wintry_lowlands"
+        "value": "the_outskirts:the_outskirts"
       }
     ]
   ]

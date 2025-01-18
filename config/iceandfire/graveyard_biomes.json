@@ -1,25 +1,16 @@
 {
-  "biomes": [
+  "biomes":
+    [
     [
       {
-        "type": "BIOME_TAG",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:is_overworld"
+        "value": "the_outskirts:the_dark_forest"
       },
       {
-        "type": "BIOME_TAG",
-        "negate": true,
-        "value": "forge:is_water"
-      },
-      {
-        "type": "BIOME_TAG",
-        "negate": true,
-        "value": "minecraft:is_beach"
-      },
-      {
-        "type": "BIOME_TAG",
-        "negate": true,
-        "value": "forge:is_underground"
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "the_outskirts:the_outskirts"
       }
     ]
   ]
