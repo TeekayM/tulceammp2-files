@@ -99,6 +99,17 @@
         "value": 1000000
       }
     },
+    "celestisynth:celestial_damage_reduction": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "minecraft:generic.luck": {
       "enabled": true,
       "min": {
@@ -137,6 +148,17 @@
       "min": {
         "default": 0,
         "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "celestisynth:celestial_damage": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
       },
       "max": {
         "default": 1024,
