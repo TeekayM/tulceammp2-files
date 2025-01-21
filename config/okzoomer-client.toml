@@ -5,7 +5,7 @@
 	#'VANILLA' uses Vanilla's cinematic camera.
 	#'MULTIPLIED' is a multiplied variant of 'VANILLA'
 	#Allowed Values: OFF, VANILLA, MULTIPLIED
-	cinematic_camera = "OFF"
+	cinematic_camera = "VANILLA"
 	#Reduces the mouse sensitivity when zooming.
 	reduce_sensitivity = true
 	#Adds transitions between zooms.

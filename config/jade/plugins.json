@@ -66,11 +66,24 @@
     "hud.status": true,
     "hud.contents": true
   },
+  "exdeorum": {
+    "infested_leaves": true,
+    "barrel": true,
+    "crucible": true,
+    "sieve": true
+  },
   "mekanismcovers": {
     "cover_component": true
   },
   "immersiveengineering": {
     "multiblock_icon": true
+  },
+  "excompressum": {
+    "bait": true,
+    "auto_sieve": true,
+    "heavy_sieve": true,
+    "auto_hammer": true,
+    "wooden_crucible": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -86,6 +99,13 @@
   "refinedcooking": {
     "kitchen_access_point": true,
     "kitchen_station": true
+  },
+  "productivebees": {
+    "solitary_nest": true,
+    "jar": true,
+    "canvas_beehive": true,
+    "bee_attributes": true,
+    "productive_bee": true
   },
   "jadeaddons": {
     "equipment_requirement": ""
