@@ -60,6 +60,9 @@
   "tombstone": {
     "graves": true
   },
+  "entangled": {
+    "entangled_block_component": true
+  },
   "endertanks": {
     "hud.basic": true,
     "hud": true,
