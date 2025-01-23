@@ -1,0 +1,17 @@
+{
+  "biomes":
+    [
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "the_outskirts:the_dark_forest"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "the_outskirts:the_outskirts"
+      }
+    ]
+  ]
+}
