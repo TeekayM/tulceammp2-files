@@ -1,7 +1,0 @@
-
-["Common configs for Astro Sync mod"]
-	#The owner of the github repo to check for updates
-	RepoOwner = "TeekayM"
-	#The name of the github repo to check for updates
-	RepoName = "tulceammp2-files"
-
