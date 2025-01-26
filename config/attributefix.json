@@ -198,6 +198,17 @@
         "value": 1024
       }
     },
+    "estrogen:boob_growing_start_time": {
+      "enabled": false,
+      "min": {
+        "default": -1,
+        "value": -1
+      },
+      "max": {
+        "default": 9007199254740992,
+        "value": 9007199254740992
+      }
+    },
     "additionalentityattributes:bonus_loot_count_rolls": {
       "enabled": false,
       "min": {
@@ -242,6 +253,28 @@
         "value": 1
       }
     },
+    "estrogen:boob_initial_size": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "estrogen:fall_damage_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "minecraft:generic.max_health": {
       "enabled": true,
       "min": {
@@ -262,6 +295,28 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "estrogen:show_boobs": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "estrogen:dash_level": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "additionalentityattributes:bonus_rare_loot_rolls": {
